@@ -1,0 +1,6 @@
+{
+  "name": "antrex/test-composer",
+  "description": "Můj test composer balíček",
+  "type": "library",
+  "license": "MIT"
+}
